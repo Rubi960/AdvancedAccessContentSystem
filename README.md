@@ -1,5 +1,8 @@
 # Advanced Access Content System
 
+![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 - Made by **Rubén Diz Martínez**
 
 ## :scroll: Description
@@ -85,6 +88,10 @@ First, launch the script to begin the interactive setup. You will be prompted to
 After providing the message, the program calculates the optimal "Cover of S", the minimal set of keys needed to encrypt the payload for the remaining authorized devices. Using the interactive menu, you can test decryption node by node. As shown below, the revoked devices (2 and 6) are completely locked out, while all other devices successfully recover the text.
 
 ![Testing the diferent results of the devices](img/02_testing.png)
+
+## :page_facing_up: License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## :incoming_envelope: Contact me
 
